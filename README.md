@@ -1,4 +1,7 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzwooo96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzwooo96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp
+<a href="https://jiwoo-yi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=Netlify&logoColor=white&link=https://jiwoo-yi.netlify.app/"/></a>&nbsp
+<a href="https://velog.io/@zwooo96"><img src="https://img.shields.io/badge/Tech%20Blog-black?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zwooo96"/></a>&nbsp
+<a href="mailto:dlwldn385@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwldn385@naver.com"/></a>
 
 ### Backend Developer
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zwooo96)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,11 +19,4 @@
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Svn-809CC9?style=flat-square&logo=Subversion&logoColor=white"/></a>&nbsp
-</div>
-
----
-<div align="center">
-	<a href="https://jiwoo-yi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=Netlify&logoColor=white&link=https://jiwoo-yi.netlify.app/"/></a>&nbsp
-	<a href="https://velog.io/@zwooo96"><img src="https://img.shields.io/badge/Tech%20Blog-black?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zwooo96"/></a>&nbsp
-	<a href="mailto:dlwldn385@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwldn385@naver.com"/></a>
 </div>
