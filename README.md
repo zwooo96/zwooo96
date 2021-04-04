@@ -1,4 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzwooo96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlwldn385)](https://solved.ac/dlwldn385)
 <a href="https://jiwoo-yi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=Netlify&logoColor=white&link=https://jiwoo-yi.netlify.app/"/></a>
 <a href="https://velog.io/@zwooo96"><img src="https://img.shields.io/badge/Tech%20Blog-black?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zwooo96"/></a>
 <a href="mailto:dlwldn385@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwldn385@naver.com"/></a>
